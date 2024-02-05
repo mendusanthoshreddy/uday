@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uday/static/css/main.628e3091.css",
+    "main.js": "/uday/static/js/main.2b8fcc48.js",
+    "static/js/592.167abb64.chunk.js": "/uday/static/js/592.167abb64.chunk.js",
+    "index.html": "/uday/index.html",
+    "main.628e3091.css.map": "/uday/static/css/main.628e3091.css.map",
+    "main.2b8fcc48.js.map": "/uday/static/js/main.2b8fcc48.js.map",
+    "592.167abb64.chunk.js.map": "/uday/static/js/592.167abb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.628e3091.css",
+    "static/js/main.2b8fcc48.js"
+  ]
+}
